@@ -1,1 +1,3 @@
-# String_Ops
+# String Operations
+## Aim
+    To split string.
